@@ -7,7 +7,7 @@ Data from http://www.cms.gov/CCIIO/Programs-and-Initiatives/Health-Insurance-Mar
 ## Notes
 * All counties, including those in states using zip code rating area states, are included in CountyRatingAreas.csv for matching with other data. Rating area is missing when not defined by county.
 * See ZipCodeRAs.csv for states using 3-digit zip codes for rating area definitions. These are not included in the county file because zip codes are not consistent geographic boundaries and are not useful for merging other data - demographic, plan information, etc. Federally managed marketplace plan data are released at the county level regardless of rating area boundary type.
-* Zip code rating areas:
+* States using code rating areas:
   * Alaska
   * Idaho
   * Massachusetts
