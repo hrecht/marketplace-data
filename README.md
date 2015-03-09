@@ -3,7 +3,7 @@ Crosswalk for counties/zip3 to rating areas for health insurance marketplaces, f
 
 Data from http://www.cms.gov/CCIIO/Programs-and-Initiatives/Health-Insurance-Market-Reforms/state-gra.html
 
-* Corrected misspellings and duplicates to match with county FIPS code. 
+* Corrected misspellings and duplicates in the source data to match with county FIPS code. 
 * See ZipCodeRAs.csv for states using zip code boundaries
   * Alaska
   * Idaho
