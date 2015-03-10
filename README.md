@@ -1,5 +1,5 @@
 # marketplace-data
-Machine-readable data about health insurance marketplaces and enrollment, originally published by ASPE-HHS and CMS. Here's to hoping that HHS makes this repo unnecessary soon.
+Machine-readable data about health insurance marketplaces and enrollment. All data originally published by ASPE-HHS and CMS in non-machine-readable formats. Here's to hoping that HHS makes this repo unnecessary soon.
 
 ## Current files
 * County and 3-digit zip crosswalk to rating areas. Includes state and county FIPS codes for analysis and fixes misspellings and duplications present in the original data.
